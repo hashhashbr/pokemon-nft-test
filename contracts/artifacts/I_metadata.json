@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Brcoin_Test.sol": "I"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Brcoin_Test.sol": {
+			"keccak256": "0x6cf86d0e7162d5a82e9139e8169f3e98b8f4d0aad2b48a398ab92ba9add1e145",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ac5545042a96835cf3dab25a588a654202a5755bf35f7200fc25e6cc90593e49",
+				"dweb:/ipfs/QmYdKpKwRhPi3UF1z1f9YwcTRK4yNmQjBbx8biMon2o6w4"
+			]
+		}
+	},
+	"version": 1
+}

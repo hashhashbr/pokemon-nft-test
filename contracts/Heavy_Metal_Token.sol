@@ -19,7 +19,7 @@ interface ERC20Interface{
 contract Heavy_Metal_Token is ERC20Interface{
     string public symbol = "METAL" ;
     string public  name = "Heavy Metal Token";
-    uint8 public decimals = 2;
+    uint8 public decimals = 18;
     uint256 public _totalSupply;
  
     mapping(address => uint) balances;
